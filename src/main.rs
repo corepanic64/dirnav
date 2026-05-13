@@ -95,6 +95,7 @@ fn run(terminal: &mut DefaultTerminal) -> Result<()> {
                             opener::open(location)?;
                         }
                     }
+                    'q' => break,
                     _ => {}
                 },
                 _ => {}

@@ -19,7 +19,7 @@ Contributions, feedback, and bug reports are highly encouraged!
   - `.` → toggle dot files and dirs show
   - `p` → open images/pdf with native app
   - `g` → toggle files show
-  - `escape` → exit program
+  - `escape` and `q` → exit program
 - Minimal and distraction-free interface
 - Powered by **Rust** for speed and safety
 
